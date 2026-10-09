@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-09T18:40:46+00:00",
-  "last_attempt_at": "2026-10-09T18:40:46+00:00",
+  "updated_at": "2026-10-09T18:45:57+00:00",
+  "last_attempt_at": "2026-10-09T18:45:57+00:00",
   "items": [
     {
       "id": "d4434ebd783e839e9790",
@@ -12,6 +12,22 @@
       "url": "https://www.sgk.gov.tr/duyuru/detay/Yurt-Disindan-Gerceklestirilecek-Beser-Tibbi-Urun-Alimlari-Dinamik-Alim-Sistemi-Hakkinda-2026-10-09-09-41-18",
       "published_at": "2026-10-09",
       "published_at_raw": "9 Ekim 2026",
+      "effective_at": null,
+      "business_impact": "",
+      "content_type": "official_headline",
+      "review_status": "source_only",
+      "verified": false,
+      "source_verified": true
+    },
+    {
+      "id": "c4171e2c4b2f4d6ab75e",
+      "category": "Ekonomi",
+      "title": "İstanbul Ekonomi Forumu'na İlişkin Basın Duyurusu (2026-44)",
+      "summary": "",
+      "source": "TCMB Basın Duyuruları",
+      "url": "https://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-44",
+      "published_at": "2026-10-09",
+      "published_at_raw": "9 Eki 2026 00:00:00",
       "effective_at": null,
       "business_impact": "",
       "content_type": "official_headline",
@@ -585,34 +601,34 @@
       "name": "TCMB Basın Duyuruları",
       "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB%2BTR/Bottom%2BMenu/Diger/RSS/Basin%2BDuyurulari",
       "category": "Ekonomi",
-      "checked_at": "2026-10-09T18:40:46+00:00",
+      "checked_at": "2026-10-09T18:45:57+00:00",
       "status": "ok",
       "item_count": 20,
-      "last_success_at": "2026-10-09T18:40:46+00:00"
+      "last_success_at": "2026-10-09T18:45:57+00:00"
     },
     {
       "name": "TCMB Yayınlar",
       "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB%2BTR/Bottom%2BMenu/Diger/RSS/Yayinlar",
       "category": "Ekonomi",
-      "checked_at": "2026-10-09T18:40:46+00:00",
+      "checked_at": "2026-10-09T18:45:57+00:00",
       "status": "ok",
       "item_count": 17,
-      "last_success_at": "2026-10-09T18:40:46+00:00"
+      "last_success_at": "2026-10-09T18:45:57+00:00"
     },
     {
       "name": "SGK Duyurular",
       "url": "https://www.sgk.gov.tr/duyuru",
       "category": "SGK",
-      "checked_at": "2026-10-09T18:40:46+00:00",
+      "checked_at": "2026-10-09T18:45:57+00:00",
       "status": "ok",
       "item_count": 10,
-      "last_success_at": "2026-10-09T18:40:46+00:00"
+      "last_success_at": "2026-10-09T18:45:57+00:00"
     },
     {
       "name": "Gelir İdaresi Başkanlığı",
       "url": "https://www.gib.gov.tr/",
       "category": "Vergi",
-      "checked_at": "2026-10-09T18:40:46+00:00",
+      "checked_at": "2026-10-09T18:45:57+00:00",
       "status": "manual",
       "message": "Dinamik site için kararlı veri erişimi henüz doğrulanmadı. Resmî siteyi açabilirsiniz."
     },
@@ -620,7 +636,7 @@
       "name": "Resmî Gazete",
       "url": "https://www.resmigazete.gov.tr/",
       "category": "Mevzuat",
-      "checked_at": "2026-10-09T18:40:46+00:00",
+      "checked_at": "2026-10-09T18:45:57+00:00",
       "status": "manual",
       "message": "RSS erişimi testte zaman aşımına uğradı. Otomatik akış bağlı değil; resmî siteyi açabilirsiniz."
     }
