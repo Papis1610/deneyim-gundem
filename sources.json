@@ -1,0 +1,41 @@
+{
+  "sources": [
+    {
+      "name": "TCMB Basın Duyuruları",
+      "category": "Ekonomi",
+      "adapter": "atom",
+      "host": "www.tcmb.gov.tr",
+      "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB%2BTR/Bottom%2BMenu/Diger/RSS/Basin%2BDuyurulari"
+    },
+    {
+      "name": "TCMB Yayınlar",
+      "category": "Ekonomi",
+      "adapter": "atom",
+      "host": "www.tcmb.gov.tr",
+      "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB%2BTR/Bottom%2BMenu/Diger/RSS/Yayinlar"
+    },
+    {
+      "name": "SGK Duyurular",
+      "category": "SGK",
+      "adapter": "sgk_html",
+      "host": "www.sgk.gov.tr",
+      "url": "https://www.sgk.gov.tr/duyuru"
+    },
+    {
+      "name": "Gelir İdaresi Başkanlığı",
+      "category": "Vergi",
+      "enabled": false,
+      "url": "https://www.gib.gov.tr/",
+      "note": "Dinamik site için kararlı veri erişimi henüz doğrulanmadı. Resmî siteyi açabilirsiniz.",
+      "host": "www.gib.gov.tr"
+    },
+    {
+      "name": "Resmî Gazete",
+      "category": "Mevzuat",
+      "enabled": false,
+      "url": "https://www.resmigazete.gov.tr/",
+      "note": "RSS erişimi testte zaman aşımına uğradı. Otomatik akış bağlı değil; resmî siteyi açabilirsiniz.",
+      "host": "www.resmigazete.gov.tr"
+    }
+  ]
+}
