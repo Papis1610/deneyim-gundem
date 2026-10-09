@@ -4,8 +4,8 @@ Deneyim Muhasebe markası için, resmî duyuru başlıklarını kaynak bağlant�
 
 ## Gerçek durum (9 Ekim 2026)
 - Canlı TCMB Basın Duyuruları, TCMB Yayınlar ve SGK duyuru listesi alındı. Son 180 gün sınırıyla 36 duyuru mevcut.
-- Kodlar Papis1610/deneyim-gundem deposuna yüklenmek üzere hazırlandı. Pages yayını ve günlük görev henüz doğrulanmadı.
-- Günlük toplama ve dağıtım iş akışı dosyası hazır. GitHub üzerinde çalıştırılmadı; otomasyonun etkin olduğu iddia edilmez.
+- Kodlar Papis1610/deneyim-gundem deposuna yüklendi. Pages etkinleştirildikten sonra dağıtım doğrulaması başlatıldı.
+- Günlük 08:15 (Türkiye saati) toplama iş akışı depoda. İlk GitHub Actions çalışması 16 testi ve TCMB/SGK gerçek toplamasını başarıyla tamamladı; ilk dağıtım Pages kapalı olduğundan durdu. Pages etkinleştirildikten sonra yeniden çalıştırılır.
 - İki canlı toplama başarılı oldu. Uygulamadaki 36 bağlantının tamamı HTTP 200 ile erişildi (HEAD desteklemeyen SGK bağlantıları GET ile kontrol edildi).
 - 16 Python testi geçti. JavaScript sözdizimi kontrolü geçti. Gerçek tarayıcıdaki mobil görünüm, filtreler ve detay etkileşimleri henüz test edilmedi: tarayıcı kurulumu başarısız oldu; uzak tarayıcı localhost erişimini engelledi.
 - GİB ve Resmî Gazete otomatik veri kaynakları bağlı değil; erişim durumları arayüzde açıkça belirtilir.
