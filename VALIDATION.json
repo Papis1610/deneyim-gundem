@@ -1,0 +1,45 @@
+{
+  "verified_at": "2026-10-09T18:49:16Z",
+  "live_url": "https://papis1610.github.io/deneyim-gundem/",
+  "run_url": "https://github.com/Papis1610/deneyim-gundem/actions/runs/37975785697",
+  "build": "success",
+  "deploy": "success",
+  "verify_live": "success",
+  "unit_tests": 16,
+  "headlines": 37,
+  "schedule": "15 5 * * * UTC / 08:15 Europe/Istanbul",
+  "browser_tests": [
+    {
+      "width": 390,
+      "height": 844,
+      "horizontal_overflow": false,
+      "details": true,
+      "search": true,
+      "category_filter": true,
+      "saved_persistence": true,
+      "refresh": true,
+      "console_errors": []
+    },
+    {
+      "width": 1280,
+      "height": 900,
+      "horizontal_overflow": false,
+      "details": true,
+      "search": true,
+      "category_filter": true,
+      "saved_persistence": true,
+      "refresh": true,
+      "console_errors": []
+    }
+  ],
+  "automatic_sources": [
+    "TCMB Basın Duyuruları",
+    "TCMB Yayınlar",
+    "SGK Duyurular"
+  ],
+  "manual_sources": [
+    "GİB",
+    "Resmî Gazete"
+  ],
+  "effective_dates_inferred": false
+}
