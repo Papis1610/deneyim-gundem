@@ -1,13 +1,15 @@
-# Deneyim Gündem V5 — yayın için hazırlanmış sürüm
+# Deneyim Gündem — canlı uygulama
+
+https://papis1610.github.io/deneyim-gundem/
 
 Deneyim Muhasebe markası için, resmî duyuru başlıklarını kaynak bağlantıları ve yayın tarihleriyle gösteren statik web uygulaması. V4 üzerinden geliştirilmiştir.
 
 ## Gerçek durum (9 Ekim 2026)
-- Canlı TCMB Basın Duyuruları, TCMB Yayınlar ve SGK duyuru listesi alındı. Son 180 gün sınırıyla 36 duyuru mevcut.
-- Kodlar Papis1610/deneyim-gundem deposuna yüklendi. Pages etkinleştirildikten sonra dağıtım doğrulaması başlatıldı.
-- Günlük 08:15 (Türkiye saati) toplama iş akışı depoda. İlk GitHub Actions çalışması 16 testi ve TCMB/SGK gerçek toplamasını başarıyla tamamladı; ilk dağıtım Pages kapalı olduğundan durdu. Pages etkinleştirildikten sonra yeniden çalıştırılır.
+- Canlı TCMB Basın Duyuruları, TCMB Yayınlar ve SGK duyuru listesi alındı. Son canlı kontrolde son 180 güne ait 37 duyuru mevcut.
+- Kodlar Papis1610/deneyim-gundem deposunda. GitHub Pages yayını ve canlı veri dosyası doğrulandı.
+- Günlük 08:15 (Türkiye saati) toplama ve Pages dağıtım iş akışı etkin. GitHub Actions run 37975785697: build, deploy ve verify-live başarılı.
 - İki canlı toplama başarılı oldu. Uygulamadaki 36 bağlantının tamamı HTTP 200 ile erişildi (HEAD desteklemeyen SGK bağlantıları GET ile kontrol edildi).
-- 16 Python testi geçti. JavaScript sözdizimi kontrolü geçti. Gerçek tarayıcıdaki mobil görünüm, filtreler ve detay etkileşimleri henüz test edilmedi: tarayıcı kurulumu başarısız oldu; uzak tarayıcı localhost erişimini engelledi.
+- 16 Python testi geçti. Canlı Chromium testleri 390×844 ve 1280×900 ekranlarında başarılı: arama, filtreler, detaylar, kaydetme kalıcılığı ve yenileme çalışıyor; yatay taşma ve JavaScript hatası yok. Görseller Actions live-browser-verification artefaktında.
 - GİB ve Resmî Gazete otomatik veri kaynakları bağlı değil; erişim durumları arayüzde açıkça belirtilir.
 
 ## Yerel kullanım
