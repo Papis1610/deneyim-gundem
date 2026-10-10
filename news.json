@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-09T18:48:22+00:00",
-  "last_attempt_at": "2026-10-09T18:48:22+00:00",
+  "updated_at": "2026-10-10T11:10:05+00:00",
+  "last_attempt_at": "2026-10-10T11:10:05+00:00",
   "items": [
     {
       "id": "d4434ebd783e839e9790",
@@ -601,34 +601,34 @@
       "name": "TCMB Basın Duyuruları",
       "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB%2BTR/Bottom%2BMenu/Diger/RSS/Basin%2BDuyurulari",
       "category": "Ekonomi",
-      "checked_at": "2026-10-09T18:48:22+00:00",
+      "checked_at": "2026-10-10T11:10:05+00:00",
       "status": "ok",
       "item_count": 20,
-      "last_success_at": "2026-10-09T18:48:22+00:00"
+      "last_success_at": "2026-10-10T11:10:05+00:00"
     },
     {
       "name": "TCMB Yayınlar",
       "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB%2BTR/Bottom%2BMenu/Diger/RSS/Yayinlar",
       "category": "Ekonomi",
-      "checked_at": "2026-10-09T18:48:22+00:00",
+      "checked_at": "2026-10-10T11:10:05+00:00",
       "status": "ok",
       "item_count": 17,
-      "last_success_at": "2026-10-09T18:48:22+00:00"
+      "last_success_at": "2026-10-10T11:10:05+00:00"
     },
     {
       "name": "SGK Duyurular",
       "url": "https://www.sgk.gov.tr/duyuru",
       "category": "SGK",
-      "checked_at": "2026-10-09T18:48:22+00:00",
+      "checked_at": "2026-10-10T11:10:05+00:00",
       "status": "ok",
       "item_count": 10,
-      "last_success_at": "2026-10-09T18:48:22+00:00"
+      "last_success_at": "2026-10-10T11:10:05+00:00"
     },
     {
       "name": "Gelir İdaresi Başkanlığı",
       "url": "https://www.gib.gov.tr/",
       "category": "Vergi",
-      "checked_at": "2026-10-09T18:48:22+00:00",
+      "checked_at": "2026-10-10T11:10:05+00:00",
       "status": "manual",
       "message": "Dinamik site için kararlı veri erişimi henüz doğrulanmadı. Resmî siteyi açabilirsiniz."
     },
@@ -636,7 +636,7 @@
       "name": "Resmî Gazete",
       "url": "https://www.resmigazete.gov.tr/",
       "category": "Mevzuat",
-      "checked_at": "2026-10-09T18:48:22+00:00",
+      "checked_at": "2026-10-10T11:10:05+00:00",
       "status": "manual",
       "message": "RSS erişimi testte zaman aşımına uğradı. Otomatik akış bağlı değil; resmî siteyi açabilirsiniz."
     }
