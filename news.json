@@ -1,8 +1,24 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T09:46:43+00:00",
-  "last_attempt_at": "2026-10-16T09:46:43+00:00",
+  "updated_at": "2026-10-17T09:19:21+00:00",
+  "last_attempt_at": "2026-10-17T09:19:21+00:00",
   "items": [
+    {
+      "id": "e9c0e9fa760fac51ef8b",
+      "category": "SGK",
+      "title": "2026/1. Dönem İlaç Geri Ödeme Komisyonu ve 2026 Yılı 3. Olağanüstü İlaç Geri Ödeme Komisyonu Kararlarına İstinaden Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru",
+      "summary": "",
+      "source": "SGK Duyurular",
+      "url": "https://www.sgk.gov.tr/duyuru/detay/20261-Donem-Ilac-Geri-Odeme-Komisyonu-ve-2026-Yili-3-Olaganustu-Ilac-Geri-Odeme-Komisyonu-Kararlarina-Istinaden-Bedeli-Odenecek-Ilaclar-Listesinde-2026-10-16-11-37-43",
+      "published_at": "2026-10-16",
+      "published_at_raw": "16 Ekim 2026",
+      "effective_at": null,
+      "business_impact": "",
+      "content_type": "official_headline",
+      "review_status": "source_only",
+      "verified": false,
+      "source_verified": true
+    },
     {
       "id": "9e2c06ab72ba0d5ca26e",
       "category": "SGK",
@@ -649,34 +665,34 @@
       "name": "TCMB Basın Duyuruları",
       "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB%2BTR/Bottom%2BMenu/Diger/RSS/Basin%2BDuyurulari",
       "category": "Ekonomi",
-      "checked_at": "2026-10-16T09:46:43+00:00",
+      "checked_at": "2026-10-17T09:19:21+00:00",
       "status": "ok",
       "item_count": 20,
-      "last_success_at": "2026-10-16T09:46:43+00:00"
+      "last_success_at": "2026-10-17T09:19:21+00:00"
     },
     {
       "name": "TCMB Yayınlar",
       "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB%2BTR/Bottom%2BMenu/Diger/RSS/Yayinlar",
       "category": "Ekonomi",
-      "checked_at": "2026-10-16T09:46:43+00:00",
+      "checked_at": "2026-10-17T09:19:21+00:00",
       "status": "ok",
       "item_count": 17,
-      "last_success_at": "2026-10-16T09:46:43+00:00"
+      "last_success_at": "2026-10-17T09:19:21+00:00"
     },
     {
       "name": "SGK Duyurular",
       "url": "https://www.sgk.gov.tr/duyuru",
       "category": "SGK",
-      "checked_at": "2026-10-16T09:46:43+00:00",
+      "checked_at": "2026-10-17T09:19:21+00:00",
       "status": "ok",
       "item_count": 10,
-      "last_success_at": "2026-10-16T09:46:43+00:00"
+      "last_success_at": "2026-10-17T09:19:21+00:00"
     },
     {
       "name": "Gelir İdaresi Başkanlığı",
       "url": "https://www.gib.gov.tr/",
       "category": "Vergi",
-      "checked_at": "2026-10-16T09:46:43+00:00",
+      "checked_at": "2026-10-17T09:19:21+00:00",
       "status": "manual",
       "message": "Dinamik site için kararlı veri erişimi henüz doğrulanmadı. Resmî siteyi açabilirsiniz."
     },
@@ -684,7 +700,7 @@
       "name": "Resmî Gazete",
       "url": "https://www.resmigazete.gov.tr/",
       "category": "Mevzuat",
-      "checked_at": "2026-10-16T09:46:43+00:00",
+      "checked_at": "2026-10-17T09:19:21+00:00",
       "status": "manual",
       "message": "RSS erişimi testte zaman aşımına uğradı. Otomatik akış bağlı değil; resmî siteyi açabilirsiniz."
     }
