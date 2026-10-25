@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-24T09:31:07+00:00",
-  "last_attempt_at": "2026-10-24T09:31:07+00:00",
+  "updated_at": "2026-10-25T09:47:32+00:00",
+  "last_attempt_at": "2026-10-25T09:47:32+00:00",
   "items": [
     {
       "id": "d86bc66860ee3cd7af3d",
@@ -722,22 +722,6 @@
       "review_status": "source_only",
       "verified": false,
       "source_verified": true
-    },
-    {
-      "id": "c033fd874f82ed0d8f35",
-      "category": "Ekonomi",
-      "title": "2025 Yılı Yıllık Faaliyet Raporu",
-      "summary": "",
-      "source": "TCMB Yayınlar",
-      "url": "https://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/yayinlar/raporlar/yillik+rapor/2029-2020/2025",
-      "published_at": "2026-04-27",
-      "published_at_raw": "27 Nis 2026 00:00:00",
-      "effective_at": null,
-      "business_impact": "",
-      "content_type": "official_headline",
-      "review_status": "source_only",
-      "verified": false,
-      "source_verified": true
     }
   ],
   "sources": [
@@ -745,34 +729,34 @@
       "name": "TCMB Basın Duyuruları",
       "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB%2BTR/Bottom%2BMenu/Diger/RSS/Basin%2BDuyurulari",
       "category": "Ekonomi",
-      "checked_at": "2026-10-24T09:31:07+00:00",
+      "checked_at": "2026-10-25T09:47:32+00:00",
       "status": "ok",
       "item_count": 20,
-      "last_success_at": "2026-10-24T09:31:07+00:00"
+      "last_success_at": "2026-10-25T09:47:32+00:00"
     },
     {
       "name": "TCMB Yayınlar",
       "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB%2BTR/Bottom%2BMenu/Diger/RSS/Yayinlar",
       "category": "Ekonomi",
-      "checked_at": "2026-10-24T09:31:07+00:00",
+      "checked_at": "2026-10-25T09:47:32+00:00",
       "status": "ok",
       "item_count": 17,
-      "last_success_at": "2026-10-24T09:31:07+00:00"
+      "last_success_at": "2026-10-25T09:47:32+00:00"
     },
     {
       "name": "SGK Duyurular",
       "url": "https://www.sgk.gov.tr/duyuru",
       "category": "SGK",
-      "checked_at": "2026-10-24T09:31:07+00:00",
+      "checked_at": "2026-10-25T09:47:32+00:00",
       "status": "ok",
       "item_count": 10,
-      "last_success_at": "2026-10-24T09:31:07+00:00"
+      "last_success_at": "2026-10-25T09:47:32+00:00"
     },
     {
       "name": "Gelir İdaresi Başkanlığı",
       "url": "https://www.gib.gov.tr/",
       "category": "Vergi",
-      "checked_at": "2026-10-24T09:31:07+00:00",
+      "checked_at": "2026-10-25T09:47:32+00:00",
       "status": "manual",
       "message": "Dinamik site için kararlı veri erişimi henüz doğrulanmadı. Resmî siteyi açabilirsiniz."
     },
@@ -780,7 +764,7 @@
       "name": "Resmî Gazete",
       "url": "https://www.resmigazete.gov.tr/",
       "category": "Mevzuat",
-      "checked_at": "2026-10-24T09:31:07+00:00",
+      "checked_at": "2026-10-25T09:47:32+00:00",
       "status": "manual",
       "message": "RSS erişimi testte zaman aşımına uğradı. Otomatik akış bağlı değil; resmî siteyi açabilirsiniz."
     }
