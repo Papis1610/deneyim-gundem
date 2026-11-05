@@ -1,8 +1,56 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-04T12:58:04+00:00",
-  "last_attempt_at": "2026-11-04T12:58:04+00:00",
+  "updated_at": "2026-11-05T13:09:56+00:00",
+  "last_attempt_at": "2026-11-05T13:09:56+00:00",
   "items": [
+    {
+      "id": "97ec5692aeaec942b136",
+      "category": "SGK",
+      "title": "Türkiye - Almanya Danışma Günleri, Adana, 01-02-03 Aralık 2026",
+      "summary": "",
+      "source": "SGK Duyurular",
+      "url": "https://www.sgk.gov.tr/duyuru/detay/Turkiye---Almanya-Danisma-Gunleri-Adana-01-02-03-Aralik-2026-2026-11-05-02-38-24",
+      "published_at": "2026-11-05",
+      "published_at_raw": "5 Kasım 2026",
+      "effective_at": null,
+      "business_impact": "",
+      "content_type": "official_headline",
+      "review_status": "source_only",
+      "verified": false,
+      "source_verified": true
+    },
+    {
+      "id": "1d7158a28cb7c4677f9f",
+      "category": "Ekonomi",
+      "title": "Aylık Fiyat Gelişmeleri (Ekim 2026)",
+      "summary": "",
+      "source": "TCMB Yayınlar",
+      "url": "https://www.tcmb.gov.tr/wps/wcm/connect/15fe8641-cdde-4e1e-846a-446eed1d9447/afiyatekim26.pdf?MOD=AJPERES",
+      "published_at": "2026-11-04",
+      "published_at_raw": "4 Kas 2026 18:00:00",
+      "effective_at": null,
+      "business_impact": "",
+      "content_type": "official_headline",
+      "review_status": "source_only",
+      "verified": false,
+      "source_verified": true
+    },
+    {
+      "id": "0b107e99b8723e98fd1a",
+      "category": "SGK",
+      "title": "Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru 2026/43",
+      "summary": "",
+      "source": "SGK Duyurular",
+      "url": "https://www.sgk.gov.tr/duyuru/detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-202643-2026-11-04-06-22-08",
+      "published_at": "2026-11-04",
+      "published_at_raw": "4 Kasım 2026",
+      "effective_at": null,
+      "business_impact": "",
+      "content_type": "official_headline",
+      "review_status": "source_only",
+      "verified": false,
+      "source_verified": true
+    },
     {
       "id": "fbe8a30688e718ad6172",
       "category": "SGK",
@@ -786,22 +834,6 @@
       "review_status": "source_only",
       "verified": false,
       "source_verified": true
-    },
-    {
-      "id": "21dbe517201edfa4131a",
-      "category": "Ekonomi",
-      "title": "Finansal Hesaplar Raporu (2025-IV. Çeyrek)",
-      "summary": "",
-      "source": "TCMB Yayınlar",
-      "url": "https://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/yayinlar/raporlar/finansal+hesaplar+raporu/2025/finansal+hesaplar+raporu+2025-+iv.+ceyrek",
-      "published_at": "2026-05-08",
-      "published_at_raw": "8 May 2026 14:30:00",
-      "effective_at": null,
-      "business_impact": "",
-      "content_type": "official_headline",
-      "review_status": "source_only",
-      "verified": false,
-      "source_verified": true
     }
   ],
   "sources": [
@@ -809,34 +841,34 @@
       "name": "TCMB Basın Duyuruları",
       "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB%2BTR/Bottom%2BMenu/Diger/RSS/Basin%2BDuyurulari",
       "category": "Ekonomi",
-      "checked_at": "2026-11-04T12:58:04+00:00",
+      "checked_at": "2026-11-05T13:09:56+00:00",
       "status": "ok",
       "item_count": 20,
-      "last_success_at": "2026-11-04T12:58:04+00:00"
+      "last_success_at": "2026-11-05T13:09:56+00:00"
     },
     {
       "name": "TCMB Yayınlar",
       "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB%2BTR/Bottom%2BMenu/Diger/RSS/Yayinlar",
       "category": "Ekonomi",
-      "checked_at": "2026-11-04T12:58:04+00:00",
+      "checked_at": "2026-11-05T13:09:56+00:00",
       "status": "ok",
       "item_count": 17,
-      "last_success_at": "2026-11-04T12:58:04+00:00"
+      "last_success_at": "2026-11-05T13:09:56+00:00"
     },
     {
       "name": "SGK Duyurular",
       "url": "https://www.sgk.gov.tr/duyuru",
       "category": "SGK",
-      "checked_at": "2026-11-04T12:58:04+00:00",
+      "checked_at": "2026-11-05T13:09:56+00:00",
       "status": "ok",
       "item_count": 10,
-      "last_success_at": "2026-11-04T12:58:04+00:00"
+      "last_success_at": "2026-11-05T13:09:56+00:00"
     },
     {
       "name": "Gelir İdaresi Başkanlığı",
       "url": "https://www.gib.gov.tr/",
       "category": "Vergi",
-      "checked_at": "2026-11-04T12:58:04+00:00",
+      "checked_at": "2026-11-05T13:09:56+00:00",
       "status": "manual",
       "message": "Dinamik site için kararlı veri erişimi henüz doğrulanmadı. Resmî siteyi açabilirsiniz."
     },
@@ -844,7 +876,7 @@
       "name": "Resmî Gazete",
       "url": "https://www.resmigazete.gov.tr/",
       "category": "Mevzuat",
-      "checked_at": "2026-11-04T12:58:04+00:00",
+      "checked_at": "2026-11-05T13:09:56+00:00",
       "status": "manual",
       "message": "RSS erişimi testte zaman aşımına uğradı. Otomatik akış bağlı değil; resmî siteyi açabilirsiniz."
     }
