@@ -1,8 +1,24 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-10T13:26:39+00:00",
-  "last_attempt_at": "2026-11-10T13:26:39+00:00",
+  "updated_at": "2026-11-11T12:42:00+00:00",
+  "last_attempt_at": "2026-11-11T12:42:00+00:00",
   "items": [
+    {
+      "id": "2bf867aeb6b89dcaaa31",
+      "category": "SGK",
+      "title": "Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru 2026/44",
+      "summary": "",
+      "source": "SGK Duyurular",
+      "url": "https://www.sgk.gov.tr/duyuru/detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-202644-2026-11-11-01-53-50",
+      "published_at": "2026-11-11",
+      "published_at_raw": "11 Kasım 2026",
+      "effective_at": null,
+      "business_impact": "",
+      "content_type": "official_headline",
+      "review_status": "source_only",
+      "verified": false,
+      "source_verified": true
+    },
     {
       "id": "b2021342599157048b2c",
       "category": "Ekonomi",
@@ -866,22 +882,6 @@
       "review_status": "source_only",
       "verified": false,
       "source_verified": true
-    },
-    {
-      "id": "e6abc09499672c725adb",
-      "category": "Ekonomi",
-      "title": "Enflasyon Raporu (2026-II)",
-      "summary": "",
-      "source": "TCMB Yayınlar",
-      "url": "https://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/yayinlar/raporlar/enflasyon+raporu/2026/enflasyon+raporu+2026+-+ii",
-      "published_at": "2026-05-14",
-      "published_at_raw": "14 May 2026 00:00:00",
-      "effective_at": null,
-      "business_impact": "",
-      "content_type": "official_headline",
-      "review_status": "source_only",
-      "verified": false,
-      "source_verified": true
     }
   ],
   "sources": [
@@ -889,34 +889,34 @@
       "name": "TCMB Basın Duyuruları",
       "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB%2BTR/Bottom%2BMenu/Diger/RSS/Basin%2BDuyurulari",
       "category": "Ekonomi",
-      "checked_at": "2026-11-10T13:26:39+00:00",
+      "checked_at": "2026-11-11T12:42:00+00:00",
       "status": "ok",
       "item_count": 20,
-      "last_success_at": "2026-11-10T13:26:39+00:00"
+      "last_success_at": "2026-11-11T12:42:00+00:00"
     },
     {
       "name": "TCMB Yayınlar",
       "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB%2BTR/Bottom%2BMenu/Diger/RSS/Yayinlar",
       "category": "Ekonomi",
-      "checked_at": "2026-11-10T13:26:39+00:00",
+      "checked_at": "2026-11-11T12:42:00+00:00",
       "status": "ok",
       "item_count": 17,
-      "last_success_at": "2026-11-10T13:26:39+00:00"
+      "last_success_at": "2026-11-11T12:42:00+00:00"
     },
     {
       "name": "SGK Duyurular",
       "url": "https://www.sgk.gov.tr/duyuru",
       "category": "SGK",
-      "checked_at": "2026-11-10T13:26:39+00:00",
+      "checked_at": "2026-11-11T12:42:00+00:00",
       "status": "ok",
       "item_count": 10,
-      "last_success_at": "2026-11-10T13:26:39+00:00"
+      "last_success_at": "2026-11-11T12:42:00+00:00"
     },
     {
       "name": "Gelir İdaresi Başkanlığı",
       "url": "https://www.gib.gov.tr/",
       "category": "Vergi",
-      "checked_at": "2026-11-10T13:26:39+00:00",
+      "checked_at": "2026-11-11T12:42:00+00:00",
       "status": "manual",
       "message": "Dinamik site için kararlı veri erişimi henüz doğrulanmadı. Resmî siteyi açabilirsiniz."
     },
@@ -924,7 +924,7 @@
       "name": "Resmî Gazete",
       "url": "https://www.resmigazete.gov.tr/",
       "category": "Mevzuat",
-      "checked_at": "2026-11-10T13:26:39+00:00",
+      "checked_at": "2026-11-11T12:42:00+00:00",
       "status": "manual",
       "message": "RSS erişimi testte zaman aşımına uğradı. Otomatik akış bağlı değil; resmî siteyi açabilirsiniz."
     }
