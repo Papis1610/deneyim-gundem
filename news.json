@@ -1,8 +1,40 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-18T13:55:02+00:00",
-  "last_attempt_at": "2026-11-18T13:55:02+00:00",
+  "updated_at": "2026-11-19T14:24:05+00:00",
+  "last_attempt_at": "2026-11-19T14:24:05+00:00",
   "items": [
+    {
+      "id": "b9380fbcd8bb4e50964c",
+      "category": "SGK",
+      "title": "Sosyal Güvenlik Kurumu Müfettiş Yardımcılığı Giriş Sınavı Duyurusu",
+      "summary": "",
+      "source": "SGK Duyurular",
+      "url": "https://www.sgk.gov.tr/duyuru/detay/Sosyal-Guvenlik-Kurumu-Mufettis-Yardimciligi-Giris-Sinavi-Duyurusu-2026-11-19-09-45-28",
+      "published_at": "2026-11-19",
+      "published_at_raw": "19 Kasım 2026",
+      "effective_at": null,
+      "business_impact": "",
+      "content_type": "official_headline",
+      "review_status": "source_only",
+      "verified": false,
+      "source_verified": true
+    },
+    {
+      "id": "f4c2fd3e6f65f2eab9a0",
+      "category": "SGK",
+      "title": "Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru 2026/45",
+      "summary": "",
+      "source": "SGK Duyurular",
+      "url": "https://www.sgk.gov.tr/duyuru/detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-202645-2026-11-18-03-55-22",
+      "published_at": "2026-11-18",
+      "published_at_raw": "18 Kasım 2026",
+      "effective_at": null,
+      "business_impact": "",
+      "content_type": "official_headline",
+      "review_status": "source_only",
+      "verified": false,
+      "source_verified": true
+    },
     {
       "id": "bae203dc874b224ea125",
       "category": "Ekonomi",
@@ -914,22 +946,6 @@
       "review_status": "source_only",
       "verified": false,
       "source_verified": true
-    },
-    {
-      "id": "39c086ce7cd766c94629",
-      "category": "Ekonomi",
-      "title": "Finansal İstikrar Raporu (Sayı:42, Mayıs 2026)",
-      "summary": "",
-      "source": "TCMB Yayınlar",
-      "url": "https://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/yayinlar/raporlar/finansal+istikrar+raporu/2026/sayi+42",
-      "published_at": "2026-05-22",
-      "published_at_raw": "22 May 2026 10:32:28",
-      "effective_at": null,
-      "business_impact": "",
-      "content_type": "official_headline",
-      "review_status": "source_only",
-      "verified": false,
-      "source_verified": true
     }
   ],
   "sources": [
@@ -937,34 +953,34 @@
       "name": "TCMB Basın Duyuruları",
       "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB%2BTR/Bottom%2BMenu/Diger/RSS/Basin%2BDuyurulari",
       "category": "Ekonomi",
-      "checked_at": "2026-11-18T13:55:02+00:00",
+      "checked_at": "2026-11-19T14:24:05+00:00",
       "status": "ok",
       "item_count": 20,
-      "last_success_at": "2026-11-18T13:55:02+00:00"
+      "last_success_at": "2026-11-19T14:24:05+00:00"
     },
     {
       "name": "TCMB Yayınlar",
       "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB%2BTR/Bottom%2BMenu/Diger/RSS/Yayinlar",
       "category": "Ekonomi",
-      "checked_at": "2026-11-18T13:55:02+00:00",
+      "checked_at": "2026-11-19T14:24:05+00:00",
       "status": "ok",
       "item_count": 17,
-      "last_success_at": "2026-11-18T13:55:02+00:00"
+      "last_success_at": "2026-11-19T14:24:05+00:00"
     },
     {
       "name": "SGK Duyurular",
       "url": "https://www.sgk.gov.tr/duyuru",
       "category": "SGK",
-      "checked_at": "2026-11-18T13:55:02+00:00",
+      "checked_at": "2026-11-19T14:24:05+00:00",
       "status": "ok",
       "item_count": 10,
-      "last_success_at": "2026-11-18T13:55:02+00:00"
+      "last_success_at": "2026-11-19T14:24:05+00:00"
     },
     {
       "name": "Gelir İdaresi Başkanlığı",
       "url": "https://www.gib.gov.tr/",
       "category": "Vergi",
-      "checked_at": "2026-11-18T13:55:02+00:00",
+      "checked_at": "2026-11-19T14:24:05+00:00",
       "status": "manual",
       "message": "Dinamik site için kararlı veri erişimi henüz doğrulanmadı. Resmî siteyi açabilirsiniz."
     },
@@ -972,7 +988,7 @@
       "name": "Resmî Gazete",
       "url": "https://www.resmigazete.gov.tr/",
       "category": "Mevzuat",
-      "checked_at": "2026-11-18T13:55:02+00:00",
+      "checked_at": "2026-11-19T14:24:05+00:00",
       "status": "manual",
       "message": "RSS erişimi testte zaman aşımına uğradı. Otomatik akış bağlı değil; resmî siteyi açabilirsiniz."
     }
