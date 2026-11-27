@@ -1,8 +1,56 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-26T15:09:12+00:00",
-  "last_attempt_at": "2026-11-26T15:09:12+00:00",
+  "updated_at": "2026-11-27T15:01:28+00:00",
+  "last_attempt_at": "2026-11-27T15:01:28+00:00",
   "items": [
+    {
+      "id": "7a7cf92351e70e398e9b",
+      "category": "Ekonomi",
+      "title": "Finansal İstikrar Raporu (Sayı:43, Kasım 2026)",
+      "summary": "",
+      "source": "TCMB Yayınlar",
+      "url": "https://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/yayinlar/raporlar/finansal+istikrar+raporu/2026/sayi+43",
+      "published_at": "2026-11-27",
+      "published_at_raw": "27 Kas 2026 10:30:00",
+      "effective_at": null,
+      "business_impact": "",
+      "content_type": "official_headline",
+      "review_status": "source_only",
+      "verified": false,
+      "source_verified": true
+    },
+    {
+      "id": "ecfd3a048a4b754f1f88",
+      "category": "Ekonomi",
+      "title": "Makroihtiyati Çerçeveye İlişkin Basın Duyurusu (2026-52)",
+      "summary": "",
+      "source": "TCMB Basın Duyuruları",
+      "url": "https://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-52",
+      "published_at": "2026-11-26",
+      "published_at_raw": "26 Kas 2026 00:00:00",
+      "effective_at": null,
+      "business_impact": "",
+      "content_type": "official_headline",
+      "review_status": "source_only",
+      "verified": false,
+      "source_verified": true
+    },
+    {
+      "id": "e4445edc098277e06963",
+      "category": "Ekonomi",
+      "title": "Türk Lirası Likidite Yönetimine İlişkin Basın Duyurusu (2026-51)",
+      "summary": "",
+      "source": "TCMB Basın Duyuruları",
+      "url": "https://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-51",
+      "published_at": "2026-11-26",
+      "published_at_raw": "26 Kas 2026 18:27:14",
+      "effective_at": null,
+      "business_impact": "",
+      "content_type": "official_headline",
+      "review_status": "source_only",
+      "verified": false,
+      "source_verified": true
+    },
     {
       "id": "1a314d90a2fef6c5d7de",
       "category": "SGK",
@@ -1017,34 +1065,34 @@
       "name": "TCMB Basın Duyuruları",
       "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB%2BTR/Bottom%2BMenu/Diger/RSS/Basin%2BDuyurulari",
       "category": "Ekonomi",
-      "checked_at": "2026-11-26T15:09:12+00:00",
+      "checked_at": "2026-11-27T15:01:28+00:00",
       "status": "ok",
       "item_count": 20,
-      "last_success_at": "2026-11-26T15:09:12+00:00"
+      "last_success_at": "2026-11-27T15:01:28+00:00"
     },
     {
       "name": "TCMB Yayınlar",
       "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB%2BTR/Bottom%2BMenu/Diger/RSS/Yayinlar",
       "category": "Ekonomi",
-      "checked_at": "2026-11-26T15:09:12+00:00",
+      "checked_at": "2026-11-27T15:01:28+00:00",
       "status": "ok",
       "item_count": 17,
-      "last_success_at": "2026-11-26T15:09:12+00:00"
+      "last_success_at": "2026-11-27T15:01:28+00:00"
     },
     {
       "name": "SGK Duyurular",
       "url": "https://www.sgk.gov.tr/duyuru",
       "category": "SGK",
-      "checked_at": "2026-11-26T15:09:12+00:00",
+      "checked_at": "2026-11-27T15:01:28+00:00",
       "status": "ok",
       "item_count": 10,
-      "last_success_at": "2026-11-26T15:09:12+00:00"
+      "last_success_at": "2026-11-27T15:01:28+00:00"
     },
     {
       "name": "Gelir İdaresi Başkanlığı",
       "url": "https://www.gib.gov.tr/",
       "category": "Vergi",
-      "checked_at": "2026-11-26T15:09:12+00:00",
+      "checked_at": "2026-11-27T15:01:28+00:00",
       "status": "manual",
       "message": "Dinamik site için kararlı veri erişimi henüz doğrulanmadı. Resmî siteyi açabilirsiniz."
     },
@@ -1052,7 +1100,7 @@
       "name": "Resmî Gazete",
       "url": "https://www.resmigazete.gov.tr/",
       "category": "Mevzuat",
-      "checked_at": "2026-11-26T15:09:12+00:00",
+      "checked_at": "2026-11-27T15:01:28+00:00",
       "status": "manual",
       "message": "RSS erişimi testte zaman aşımına uğradı. Otomatik akış bağlı değil; resmî siteyi açabilirsiniz."
     }
